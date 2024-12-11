@@ -1,0 +1,17 @@
+﻿<Window x:Class="vp_lab_task10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Rectangle HorizontalAlignment="Left" Height="185" Stroke="Black" VerticalAlignment="Center" Width="780" Margin="20,0,0,0" Fill=
+                   "Silver"/>
+
+
+        <Image Source="C:\Users\233539\Desktop\lab 10 task\Lab10 task\Images\usgs-ZpC7sJVovLM-unsplash.jpg" Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Center" Height="154" Width="226" Margin="51,0,0,0"/>
+        <Image HorizontalAlignment="Left" Width="180" Height="154" Margin="253,0,0,0" VerticalAlignment="Center" Source="C:\Users\233539\Desktop\lab 10 task\Lab10 task\Images\img2.jpg" />
+        <Image HorizontalAlignment="Left" Height="138" Margin="437,0,0,0" VerticalAlignment="Center" Source="C:\Users\233539\Desktop\lab 10 task\Lab10 task\Images\img3.jpg" Width="229" RenderTransformOrigin="0.497,0.774"/>
+
+
+    </Grid>
+</Window>

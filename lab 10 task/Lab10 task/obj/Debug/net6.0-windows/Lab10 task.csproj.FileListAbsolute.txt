@@ -1,0 +1,20 @@
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.csproj.AssemblyReference.cache
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task_MarkupCompile.cache
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.g.resources
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.AssemblyInfoInputs.cache
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.AssemblyInfo.cs
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.csproj.CoreCompileInputs.cache
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\bin\Debug\net6.0-windows\Lab10 task.exe
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\bin\Debug\net6.0-windows\Lab10 task.deps.json
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\bin\Debug\net6.0-windows\Lab10 task.runtimeconfig.json
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\bin\Debug\net6.0-windows\Lab10 task.dll
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\bin\Debug\net6.0-windows\Lab10 task.pdb
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.dll
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\refint\Lab10 task.dll
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.pdb
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\Lab10 task.genruntimeconfig.cache
+C:\Users\233539\Desktop\lab 10 task\Lab10 task\obj\Debug\net6.0-windows\ref\Lab10 task.dll
