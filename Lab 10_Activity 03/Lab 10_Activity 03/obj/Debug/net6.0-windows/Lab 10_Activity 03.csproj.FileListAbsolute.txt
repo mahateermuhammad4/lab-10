@@ -1,0 +1,42 @@
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.exe
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.deps.json
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.runtimeconfig.json
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.pdb
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.csproj.AssemblyReference.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03_MarkupCompile.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03_MarkupCompile.lref
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.g.resources
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.AssemblyInfoInputs.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.AssemblyInfo.cs
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.csproj.CoreCompileInputs.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\refint\Lab 10_Activity 03.dll
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.pdb
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.genruntimeconfig.cache
+C:\Users\233523\Desktop\Visual Programming\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\ref\Lab 10_Activity 03.dll
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.exe
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.deps.json
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.runtimeconfig.json
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.dll
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\bin\Debug\net6.0-windows\Lab 10_Activity 03.pdb
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.csproj.AssemblyReference.cache
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03_MarkupCompile.cache
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03_MarkupCompile.lref
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.g.resources
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.AssemblyInfoInputs.cache
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.AssemblyInfo.cs
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.csproj.CoreCompileInputs.cache
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.dll
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\refint\Lab 10_Activity 03.dll
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.pdb
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\Lab 10_Activity 03.genruntimeconfig.cache
+C:\Users\233539\Documents\Lab 10_Activity 03\Lab 10_Activity 03\obj\Debug\net6.0-windows\ref\Lab 10_Activity 03.dll
